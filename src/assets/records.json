@@ -1,0 +1,260 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2015,
+      "color": "Black",
+      "kms": 80000,
+      "vin": "4T1BF1FK6FU921234",
+      "price": 11000,
+      "images": [
+        "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://media.istockphoto.com/id/170110046/photo/photorealistic-illustration-of-blue-car.jpg?s=1024x1024&w=is&k=20&c=j54ocDyCpVJMbutTSvRmv_oQhivO0dBS7oMFrJa8etE=",
+        "https://media.istockphoto.com/id/174823143/photo/a-brand-new-silver-car-on-a-white-background.jpg?s=1024x1024&w=is&k=20&c=mvjxvmi9JPIGzWHaSToozhZG0aN6k8jAoeLSTzwEnuU=",
+        "https://media.istockphoto.com/id/852439754/photo/three-dimensional-modern-white-car.jpg?s=612x612&w=is&k=20&c=uyps6be_5NxxZ-v_S03Z1Zeh78b_RpUmUskFXdVJd8o="
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2017,
+      "color": "White",
+      "kms": 55000,
+      "vin": "1HGCR2F34HA201234",
+      "price": 14000,
+      "images": [
+        "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/10/215047_polestar_1_black_exterior_side-e1508240276516.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "https://images.autotrader.com/hn/c/c7431993b0f549bab1badc4ea316619b.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-polestar-1-432-flat-1653590605.jpg?crop=0.756xw:0.566xh;0.228xw,0.434xh&resize=640:*",
+        "https://hips.hearstapps.com/hmg-prod/images/polestar1-launch-sanfrancisco-0013-1572899659.jpg?crop=1.00xw:0.822xh;0,0.144xh&resize=1200:*"
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Fusion",
+      "year": 2019,
+      "color": "Gray",
+      "kms": 35000,
+      "vin": "3FA6P0HD9KR201234",
+      "price": 16000,
+      "images": [
+        "https://example.com/fusion1-image1.jpg",
+        "https://example.com/fusion1-image2.jpg",
+        "https://example.com/fusion1-image3.jpg",
+        "https://example.com/fusion1-image4.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "year": 2018,
+      "color": "Blue",
+      "kms": 45000,
+      "vin": "2G1105S38J9123456",
+      "price": 13000,
+      "images": [
+        "https://example.com/impala1-image1.jpg",
+        "https://example.com/impala1-image2.jpg",
+        "https://example.com/impala1-image3.jpg",
+        "https://example.com/impala1-image4.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2020,
+      "color": "Silver",
+      "kms": 25000,
+      "vin": "3N1AB8CV5LY312345",
+      "price": 17000,
+      "images": [
+        "https://example.com/sentra1-image1.jpg",
+        "https://example.com/sentra1-image2.jpg",
+        "https://example.com/sentra1-image3.jpg",
+        "https://example.com/sentra1-image4.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2018,
+      "color": "Red",
+      "kms": 40000,
+      "vin": "KMHD84LF6JU274301",
+      "price": 13000,
+      "images": [
+        "https://example.com/elantra1-image1.jpg",
+        "https://example.com/elantra1-image2.jpg",
+        "https://example.com/elantra1-image3.jpg",
+        "https://example.com/elantra1-image4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "make": "Subaru",
+      "model": "Forester",
+      "year": 2017,
+      "color": "Gray",
+      "kms": 50000,
+      "vin": "JF2SJABC3GH412345",
+      "price": 15000,
+      "images": [
+        "https://example.com/forester1-image1.jpg",
+        "https://example.com/forester1-image2.jpg",
+        "https://example.com/forester1-image3.jpg",
+        "https://example.com/forester1-image4.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2016,
+      "color": "White",
+      "kms": 60000,
+      "vin": "WBA8B7G51GNT92301",
+      "price": 20000,
+      "images": [
+        "https://example.com/3series1-image1.jpg",
+        "https://example.com/3series1-image2.jpg",
+        "https://example.com/3series1-image3.jpg",
+        "https://example.com/3series1-image4.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2018,
+      "color": "Black",
+      "kms": 35000,
+      "vin": "WDDWJ4KB3JF619652",
+      "price": 25000,
+      "images": [
+        "https://example.com/cclass1-image1.jpg",
+        "https://example.com/cclass1-image2.jpg",
+        "https://example.com/cclass1-image3.jpg",
+        "https://example.com/cclass1-image4.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2017,
+      "color": "Gray",
+      "kms": 45000,
+      "vin": "WAUBNAF42HA119716",
+      "price": 23000,
+      "images": [
+        "https://example.com/a41-image1.jpg",
+        "https://example.com/a41-image2.jpg",
+        "https://example.com/a41-image3.jpg",
+        "https://example.com/a41-image4.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2019,
+      "color": "Yellow",
+      "kms": 15000,
+      "vin": "1FA6P8TH1K5143201",
+      "price": 28000,
+      "images": [
+        "https://example.com/mustang1-image1.jpg",
+        "https://example.com/mustang1-image2.jpg",
+        "https://example.com/mustang1-image3.jpg",
+        "https://example.com/mustang1-image4.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2017,
+      "color": "Red",
+      "kms": 45000,
+      "vin": "1G1FB3DS4H0134567",
+      "price": 20000,
+      "images": [
+        "https://example.com/camaro1-image1.jpg",
+        "https://example.com/camaro1-image2.jpg",
+        "https://example.com/camaro1-image3.jpg",
+        "https://example.com/camaro1-image4.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "make": "Nissan",
+      "model": "Maxima",
+      "year": 2018,
+      "color": "White",
+      "kms": 25000,
+      "vin": "1N4AA6AP1JC123456",
+      "price": 18000,
+      "images": [
+        "https://example.com/maxima1-image1.jpg",
+        "https://example.com/maxima1-image2.jpg",
+        "https://example.com/maxima1-image3.jpg",
+        "https://example.com/maxima1-image4.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2016,
+      "color": "Silver",
+      "kms": 55000,
+      "vin": "4T1BF1FK2GU111111",
+      "price": 15000,
+      "images": [
+        "https://example.com/camry1-image1.jpg",
+        "https://example.com/camry1-image2.jpg",
+        "https://example.com/camry1-image3.jpg",
+        "https://example.com/camry1-image4.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2017,
+      "color": "Blue",
+      "kms": 40000,
+      "vin": "SHHFK7H43HU123456",
+      "price": 12000,
+      "images": [
+        "https://example.com/civic1-image1.jpg",
+        "https://example.com/civic1-image2.jpg",
+        "https://example.com/civic1-image3.jpg",
+        "https://example.com/civic1-image4.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2015,
+      "color": "Black",
+      "kms": 70000,
+      "vin": "WBA3B5C5XFP651234",
+      "price": 19000,
+      "images": [
+        "https://example.com/bmw1-image1.jpg",
+        "https://example.com/bmw1-image2.jpg",
+        "https://example.com/bmw1-image3.jpg",
+        "https://example.com/bmw1-image4.jpg"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Project Set up
 
-Open the repository and go to the root directory
+Open the VSCode or any other editor and then execute this commands in terminal
 
 ```bash
 git clone https://github.com/mitkpatel/car-dealership-reactjs
